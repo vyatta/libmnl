@@ -25,6 +25,7 @@ configure: configure.ac Makefile.am
 config.status: configure
 	dh_testdir
 	rm -f config.cache
+	autoreconf -i
 	$(configure)
 %:
 	dh $@ 
