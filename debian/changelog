@@ -1,0 +1,19 @@
+libmnl (1.0.3-1) unstable; urgency=low
+
+  * New libmnl package, merge upstream 1.0.3 libmnl changes required by user-space helpers
+
+ -- Anibal Monsalve Salazar <anibal@debian.org>  Sat, 01 Jan 2011 18:59:00 +1100
+
+libmnl (1.0.1-1) unstable; urgency=low
+
+  * New upstream release
+  * Upload to unstable
+
+ -- Anibal Monsalve Salazar <anibal@debian.org>  Sat, 01 Jan 2011 18:59:00 +1100
+
+libmnl (0.0.0~20101124-1) experimental; urgency=low
+
+  * Initial release
+    Closes: 604757
+
+ -- Anibal Monsalve Salazar <anibal@debian.org>  Wed, 24 Nov 2010 12:14:40 +1100
