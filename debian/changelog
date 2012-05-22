@@ -1,3 +1,9 @@
+libmnl (1.0.3-2) unstable; urgency=low
+
+  * fix debian rule
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Tue, 22 May 2012 14:10:06 -0700
+
 libmnl (1.0.3-1) unstable; urgency=low
 
   * New libmnl package, merge upstream 1.0.3 libmnl changes required by user-space helpers
