@@ -1,3 +1,9 @@
+libmnl (1.0.3-3) unstable; urgency=low
+
+  * fixing debian build issue with configure rules
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Tue, 22 May 2012 14:41:53 -0700
+
 libmnl (1.0.3-2) unstable; urgency=low
 
   * fix debian rule
