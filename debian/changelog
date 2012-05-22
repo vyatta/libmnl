@@ -1,3 +1,9 @@
+libmnl (1.0.3-4) unstable; urgency=low
+
+  * adding autoreconf -i
+
+ -- Gaurav Sinha <gaurav.sinha@vyatta.com>  Tue, 22 May 2012 14:51:37 -0700
+
 libmnl (1.0.3-3) unstable; urgency=low
 
   * fixing debian build issue with configure rules
