@@ -6,8 +6,8 @@ export DH_VERBOSE=1
 
 %:
 	dh $@ 
+build:
+	autoreconf -i
 
 override_dh_builddeb:
-	autoreconf -i
-	./configure
 	dh_builddeb -- -Zbzip2
