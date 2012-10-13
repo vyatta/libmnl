@@ -1,3 +1,9 @@
+libmnl (1.0.3-5+pacifica1) unstable; urgency=low
+
+  * new branch
+
+ -- John Southworth <john.southworth@vyatta.com>  Fri, 12 Oct 2012 18:42:48 -0700
+
 libmnl (1.0.3-5) unstable; urgency=low
 
   * add build target to debian rules.
